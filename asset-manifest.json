@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/game-heroes/static/css/main.3127938d.chunk.css",
-    "main.js": "/game-heroes/static/js/main.b399b72d.chunk.js",
-    "main.js.map": "/game-heroes/static/js/main.b399b72d.chunk.js.map",
+    "main.js": "/game-heroes/static/js/main.9862e093.chunk.js",
+    "main.js.map": "/game-heroes/static/js/main.9862e093.chunk.js.map",
     "runtime-main.js": "/game-heroes/static/js/runtime-main.76865576.js",
     "runtime-main.js.map": "/game-heroes/static/js/runtime-main.76865576.js.map",
     "static/js/2.1958a1af.chunk.js": "/game-heroes/static/js/2.1958a1af.chunk.js",
     "static/js/2.1958a1af.chunk.js.map": "/game-heroes/static/js/2.1958a1af.chunk.js.map",
     "index.html": "/game-heroes/index.html",
     "static/css/main.3127938d.chunk.css.map": "/game-heroes/static/css/main.3127938d.chunk.css.map",
-    "static/js/2.1958a1af.chunk.js.LICENSE.txt": "/game-heroes/static/js/2.1958a1af.chunk.js.LICENSE.txt",
-    "static/media/logo1.eb499d27.png": "/game-heroes/static/media/logo1.eb499d27.png",
-    "static/media/logo2.f42eab23.png": "/game-heroes/static/media/logo2.f42eab23.png"
+    "static/js/2.1958a1af.chunk.js.LICENSE.txt": "/game-heroes/static/js/2.1958a1af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76865576.js",
     "static/js/2.1958a1af.chunk.js",
     "static/css/main.3127938d.chunk.css",
-    "static/js/main.b399b72d.chunk.js"
+    "static/js/main.9862e093.chunk.js"
   ]
 }
