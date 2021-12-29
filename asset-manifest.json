@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/game-heroes/static/css/main.3127938d.chunk.css",
+    "main.css": "/game-heroes/static/css/main.9af9f16d.chunk.css",
     "main.js": "/game-heroes/static/js/main.4c063030.chunk.js",
     "main.js.map": "/game-heroes/static/js/main.4c063030.chunk.js.map",
     "runtime-main.js": "/game-heroes/static/js/runtime-main.76865576.js",
@@ -8,13 +8,13 @@
     "static/js/2.1958a1af.chunk.js": "/game-heroes/static/js/2.1958a1af.chunk.js",
     "static/js/2.1958a1af.chunk.js.map": "/game-heroes/static/js/2.1958a1af.chunk.js.map",
     "index.html": "/game-heroes/index.html",
-    "static/css/main.3127938d.chunk.css.map": "/game-heroes/static/css/main.3127938d.chunk.css.map",
+    "static/css/main.9af9f16d.chunk.css.map": "/game-heroes/static/css/main.9af9f16d.chunk.css.map",
     "static/js/2.1958a1af.chunk.js.LICENSE.txt": "/game-heroes/static/js/2.1958a1af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76865576.js",
     "static/js/2.1958a1af.chunk.js",
-    "static/css/main.3127938d.chunk.css",
+    "static/css/main.9af9f16d.chunk.css",
     "static/js/main.4c063030.chunk.js"
   ]
 }
